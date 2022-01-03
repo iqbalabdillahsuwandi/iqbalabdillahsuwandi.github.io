@@ -1,0 +1,10 @@
+.jumbotron {
+    padding-top: 8rem;
+    background-color: white;
+    height: 100vh;
+    position: relative;
+}
+
+section {
+    padding: 5rem;
+}
